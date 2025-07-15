@@ -75,7 +75,7 @@ pip install openpyxl pandas
 1. Scripti çalıştırın:
 
 ```bash
-python patika_scraper.py
+python academypatikadev_web_scraping.py
 ```
 
 2. Script, `https://academy.patika.dev/paths` sayfasını açar, dersleri toplar ve `academypatikadev_courses.xlsx` adlı dosyaya kaydeder.
