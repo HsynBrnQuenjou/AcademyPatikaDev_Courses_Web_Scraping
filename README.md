@@ -92,6 +92,10 @@ python academypatikadev_web_scraping.py
 
 ---
 
+✅ Bu script sayesinde AcademyPatika'deki tüm kurslara hızlıca ulaşabilir ve analiz edebilirsiniz.
+
+---
+
 ## 📌 Excel Düzenleme İpucu
 
 Excel'deki veri görünümünü otomatik olarak düzgün hale getirmek için:
